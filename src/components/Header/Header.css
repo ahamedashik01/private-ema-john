@@ -18,3 +18,8 @@
 .header nav a:hover{
     background-color: lightgray;
 }
+
+.span{
+    color:white;
+    margin: 0 8px;
+}
