@@ -1,0 +1,15 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.form{    
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+}
+.input{
+    padding: 4px;
+    margin: 8px;
+}
